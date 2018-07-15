@@ -1,0 +1,33 @@
+﻿  stdafx.cpp
+  System.cpp
+  ErrorCheck.cpp
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\errorcheck.cpp(22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  DeleteObjectscpp.cpp
+  C++ Doctor Program.cpp
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(304): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(316): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(345): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(357): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(437): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(453): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(469): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(484): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(499): warning C4018: '<': signed/unsigned mismatch
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(512): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(539): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(557): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(574): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(604): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(625): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(646): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(389): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(475): note: see declaration of 'ctime'
+d:\c++ - doctor surgery program upload\c++ - doctor surgery program upload\c++ doctor program\c++ doctor program\c++ doctor program.cpp(49): warning C4101: 'iCustomerObjectSize': unreferenced local variable
+  Booking.cpp
+  Accounts.cpp
+  Generating Code...
+  C++ Doctor Program.vcxproj -> D:\C++ - DOCTOR SURGERY PROGRAM UPLOAD\C++ - DOCTOR SURGERY PROGRAM UPLOAD\C++ Doctor Program\Debug\C++ Doctor Program.exe
+  C++ Doctor Program.vcxproj -> D:\C++ - DOCTOR SURGERY PROGRAM UPLOAD\C++ - DOCTOR SURGERY PROGRAM UPLOAD\C++ Doctor Program\Debug\C++ Doctor Program.pdb (Partial PDB)
